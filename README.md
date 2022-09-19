@@ -7,5 +7,9 @@ binaryAllNaturalPlusNormalVsAttacks ---> real dataset
 preData ---> preprocessed dataset
 synthetic data ---> resulting synthetic dataset.
 
+Results Table:
+![image](https://user-images.githubusercontent.com/93623710/191051092-a7996a85-2c82-45fc-a114-d61030c3fe26.png)
+
+
 Citation: https://github.com/sdv-dev/CTGAN
         : https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
