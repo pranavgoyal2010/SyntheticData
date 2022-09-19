@@ -11,6 +11,16 @@ preData ---> preprocessed dataset
 
 synthetic data ---> resulting synthetic dataset.
 
+
+ctgan ---> implementation of CTGAN
+
+
+CTGAN_Algo.ipynb ---> CTGAN used for synthetic data generation
+
+
+RandomForest.ipynb ---> Machine Learning model used for testing the synthetic dataset.
+
+
 Results Table:
 ![image](https://user-images.githubusercontent.com/93623710/191051092-a7996a85-2c82-45fc-a114-d61030c3fe26.png)
 
